@@ -20,8 +20,7 @@ Here are a few projects I'm particularly proud of:
 ## Contributions
 I love contributing to open source and believe in the power of community-driven development. Here's a glimpse of my contributions:
 
-![GitHub stats](![Metrics](https://metrics.lecoq.io/RahelWg?template=classic&base.metadata=0&isocalendar=1&isocalendar.duration=full-year)
-)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 ## Fun Fact
 I love exploring people's ways of life and culture, so let's share. Whether it's your favorite book, a place you love, or a unique tradition from your culture, I'm all ears.
