@@ -17,10 +17,6 @@ Here are a few projects I'm particularly proud of:
 ## Connect With Me
 - **LinkedIn**: [Rahel Abreham](https://www.linkedin.com/in/rahel-abreham-59a29a191/)
 
-## Contributions
-I love contributing to open source and believe in the power of community-driven development. Here's a glimpse of my contributions:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RahelWg&show_icons=true&isocalendar.duration=full-year)
 
 ## Fun Fact
 I love exploring people's ways of life and culture, so let's share. Whether it's your favorite book, a place you love, or a unique tradition from your culture, I'm all ears.
